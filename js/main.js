@@ -1,7 +1,5 @@
-import './users-photo.js';
-// import {getDesscription} from './data.js';
+import {getDesscription} from './data.js';
+import {uploadPhoto} from './users-photo.js';
 
-
-// getDesscription();
-
-
+getDesscription();
+uploadPhoto();
